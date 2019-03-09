@@ -1,2 +1,2 @@
-# guidoavvisati.github.com
+# guidoavvisati.github.io
 personal website
